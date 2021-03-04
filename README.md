@@ -13,7 +13,7 @@
 
 ## Detection Results
 
-![Image](output/test_result2.png)
+![Image](output/test_result4.png)
 
 ![Image](output/test_eye2_result.png)
 
